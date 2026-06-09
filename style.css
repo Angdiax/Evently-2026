@@ -22,7 +22,7 @@
     --white: oklch(100% 0 0);
 
     /* Utility Colors */
-    --mint-50: oklch(97.5% 0.015 165);
+    --mint-50: oklch(97.5% 0.015 165)
     --mint-200: oklch(92% 0.035 165);
     --emerald-100: oklch(95.9% 0.04 144);
     --emerald-800: oklch(52.71% 0.1654 142.1);
